@@ -9,7 +9,15 @@ sites:
     url: https://norsys-daily.norsys.fr/
   - name: SiteClient1
     url: $SITE_CLIENT1
-
+  - name: Norsys_DNS_Primaire
+    check: "tcp-ping"
+    url: ns1.norsys.fr
+    port: 53
+  - name: Norsys_DNS_Secondaire
+    check: "tcp-ping"
+    url: ns2.norsys.fr
+    port: 53
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
