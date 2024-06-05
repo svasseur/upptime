@@ -18,21 +18,21 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
-    "status": "down",
+    "name": "Norsys-daily",
+    "url": "https://norsys-daily.norsys.fr/",
+    "icon": "https://icons.duckduckgo.com/ip3/norsys-daily.norsys.fr.ico",
+    "slug": "norsys-daily",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 880,
+    "timeDay": 880,
+    "timeWeek": 880,
+    "timeMonth": 880,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   }
 ]
