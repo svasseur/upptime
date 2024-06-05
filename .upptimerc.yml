@@ -17,7 +17,7 @@ sites:
     check: "tcp-ping"
     url: ns2.norsys.fr
     port: 53
-    
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -29,7 +29,7 @@ status-website:
   introMessage: En cas de problèmes nous contacter 
   navbar:
     - title: Status
-      href: /upptime
+      href: https://github.com/svasseur/upptime
     - title: Norsys
       href: https://www.norsys.fr
 
