@@ -19,7 +19,7 @@ status-website:
   introMessage: En cas de problèmes nous contacter 
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: Norsys
       href: https://www.norsys.fr
 
