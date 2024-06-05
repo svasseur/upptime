@@ -8,7 +8,7 @@ sites:
   - name: Norsys-daily
     url: https://norsys-daily.norsys.fr/
   - name: SiteClient1
-    utl: $SITE_CLIENT1
+    url: $SITE_CLIENT1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
