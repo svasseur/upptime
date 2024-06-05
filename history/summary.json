@@ -40,19 +40,19 @@
     "url": "$SITE_CLIENT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-client1",
-    "status": "down",
-    "uptime": "90.35%",
-    "uptimeDay": "90.35%",
-    "uptimeWeek": "90.35%",
-    "uptimeMonth": "90.35%",
-    "uptimeYear": "90.35%",
-    "time": 1015,
-    "timeDay": 1015,
-    "timeWeek": 1015,
-    "timeMonth": 1015,
-    "timeYear": 1015,
+    "status": "up",
+    "uptime": "86.91%",
+    "uptimeDay": "86.91%",
+    "uptimeWeek": "86.91%",
+    "uptimeMonth": "86.91%",
+    "uptimeYear": "86.91%",
+    "time": 986,
+    "timeDay": 986,
+    "timeWeek": 986,
+    "timeMonth": 986,
+    "timeYear": 986,
     "dailyMinutesDown": {
-      "2024-06-05": 39
+      "2024-06-05": 55
     }
   },
   {
