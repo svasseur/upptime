@@ -22,19 +22,19 @@
     "url": "https://norsys-daily.norsys.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/norsys-daily.norsys.fr.ico",
     "slug": "norsys-daily",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "98.95%",
+    "uptimeDay": "84.07%",
+    "uptimeWeek": "97.72%",
+    "uptimeMonth": "98.95%",
+    "uptimeYear": "98.95%",
     "time": 1027,
-    "timeDay": 911,
+    "timeDay": 952,
     "timeWeek": 1029,
     "timeMonth": 1027,
     "timeYear": 1027,
     "dailyMinutesDown": {
-      "2024-06-20": 0
+      "2024-06-20": 229
     }
   },
   {
