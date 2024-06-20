@@ -1,7 +1,7 @@
 url: https://norsys-daily.norsys.fr/
-status: up
-code: 200
-responseTime: 900
-lastUpdated: 2024-06-19T23:16:45.241Z
+status: down
+code: 502
+responseTime: 922
+lastUpdated: 2024-06-20T12:44:19.485Z
 startTime: 2024-06-05T12:20:06.183Z
 generator: Upptime <https://github.com/upptime/upptime>
