@@ -38,26 +38,22 @@
     }
   },
   {
-    "name": "SiteClient1",
+    "name": "SiteInterne",
     "url": "$SITE_CLIENT1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "site-client1",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1119,
-    "timeDay": 812,
-    "timeWeek": 994,
-    "timeMonth": 1119,
-    "timeYear": 1119,
-    "dailyMinutesDown": {
-      "2024-07-02": 0,
-      "2024-06-27": 8,
-      "2024-06-05": 55
-    }
+    "slug": "site-interne",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1123,
+    "timeDay": 1123,
+    "timeWeek": 1123,
+    "timeMonth": 1123,
+    "timeYear": 1123,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Norsys_DNS_Primaire",
