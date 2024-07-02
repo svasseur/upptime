@@ -7,7 +7,7 @@ sites:
     url: https://www.norsys.fr
   - name: Norsys-daily
     url: https://norsys-daily.norsys.fr/
-  - name: SiteClient1
+  - name: SiteInterne
     url: $SITE_CLIENT1
   - name: Norsys_DNS_Primaire
     check: "tcp-ping"
